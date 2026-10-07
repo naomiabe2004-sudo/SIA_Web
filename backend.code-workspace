@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "backend"
+		},
+		{
+			"path": "IP_TECHKEEP"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "IP_TECHKEEP"
+	}
+}
